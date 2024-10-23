@@ -1,0 +1,5 @@
+if(EXISTS "/media/ivan-pro/A8E00B75E00B4950/labas3/build/googltest[1]_tests.cmake")
+  include("/media/ivan-pro/A8E00B75E00B4950/labas3/build/googltest[1]_tests.cmake")
+else()
+  add_test(googltest_NOT_BUILT googltest_NOT_BUILT)
+endif()

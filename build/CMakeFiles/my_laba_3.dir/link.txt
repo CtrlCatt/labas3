@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/my_laba_3.dir/main.cpp.o CMakeFiles/my_laba_3.dir/rectangle.cpp.o CMakeFiles/my_laba_3.dir/square.cpp.o CMakeFiles/my_laba_3.dir/trapezoid.cpp.o -o my_laba_3 
