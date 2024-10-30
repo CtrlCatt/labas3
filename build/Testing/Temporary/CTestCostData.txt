@@ -1,1 +1,4 @@
+TrapezoidTest.AreaCalculation 4 0.00617432
+SquareTest.AreaCalculation 1 0.0058436
+RectangleTest.AreaCalculation 1 0.0072259
 ---

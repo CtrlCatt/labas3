@@ -32,6 +32,9 @@ enable_testing()
 add_executable(
   googltest
   googltest.cpp
+  rectangle.cpp
+  square.cpp
+  trapezoid.cpp
 )
 target_link_libraries(
   googltest

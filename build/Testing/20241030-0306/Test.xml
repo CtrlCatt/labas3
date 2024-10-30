@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20241030-0306-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.30.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="DESKTOP-0MDGV5Q"
+	OSRelease=" Professional"
+	OSVersion=" (Build 22631)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="1"
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="24"
+	NumberOfPhysicalCPU="12"
+	TotalVirtualMemory="56468"
+	TotalPhysicalMemory="15508"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4691"
+	>
+	<Testing>
+		<StartDateTime>Oct 30 06:57 RTZ 2 ([NON-UTF-8-BYTE-0xE7][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xE0])</StartDateTime>
+		<StartTestTime>1730260652</StartTestTime>
+		<TestList>
+			<Test>./RectangleTest.AreaCalculation</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>RectangleTest.AreaCalculation</Name>
+			<Path>.</Path>
+			<FullName>./RectangleTest.AreaCalculation</FullName>
+			<FullCommandLine>C:\labas3\build\Debug\googltest.exe "--gtest_filter=RectangleTest.AreaCalculation" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0072259</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\labas3\build\Debug\googltest.exe "--gtest_filter=RectangleTest.AreaCalculation" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyNkE1rwzAMhu/+FTo2h5iN3Qo9lG70MOhKup3iUJREDQbHLrbc/f3FSSltYbQ66eNBel8V0VptO+hR21kGB+96WM2VwRrDm6qjNq3at3QMqnOuM8QUOA++uSrVWKZsn7bIphEbxzSH9YjA9zCBgzZMHhZQUMNoh35qy6UnXKFpokHWzopycYkKirO2V+BxRdJ2zkPUTFKU+SUqWBtXo5nmZE/aO9uTHVjiPB7v4OudN5JECcXPBsaoHqmdMPj6fITC7AX6kD2pYaKBHaPJxHMumdDnrfu9++F/vwOPVt7eGdxsl7vdx3syPrFS/AEuc7E1====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Oct 30 06:57 RTZ 2 ([NON-UTF-8-BYTE-0xE7][NON-UTF-8-BYTE-0xE8][NON-UTF-8-BYTE-0xEC][NON-UTF-8-BYTE-0xE0])</EndDateTime>
+		<EndTestTime>1730260652</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

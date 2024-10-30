@@ -28,7 +28,7 @@ int main() {
 
     double total_area = 0;
     for (const auto& fig : figures) {
-        std::cout << *fig << std::endl; // разыминовываем умный указатель (Изгнал скверну!!!)
+        std::cout << *fig << std::endl; // разыминовываем умный указатель Изгнал скверну!!!
         total_area += fig->area(); // Эквивалент (*fig).area()
     }
 

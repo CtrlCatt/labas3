@@ -1,0 +1,30 @@
+Start testing: Oct 30 06:57 RTZ 2 (çèìà)
+----------------------------------------------------------
+3/3 Testing: RectangleTest.AreaCalculation
+3/3 Test: RectangleTest.AreaCalculation
+Command: "C:/labas3/build/Debug/googltest.exe" "--gtest_filter=RectangleTest.AreaCalculation" "--gtest_also_run_disabled_tests"
+Directory: C:/labas3/build
+"RectangleTest.AreaCalculation" start time: Oct 30 06:57 RTZ 2 (çèìà)
+Output:
+----------------------------------------------------------
+Running main() from C:\labas3\build\_deps\googletest-src\googletest\src\gtest_main.cc
+Note: Google Test filter = RectangleTest.AreaCalculation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from RectangleTest
+[ RUN      ] RectangleTest.AreaCalculation
+[       OK ] RectangleTest.AreaCalculation (0 ms)
+[----------] 1 test from RectangleTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"RectangleTest.AreaCalculation" end time: Oct 30 06:57 RTZ 2 (çèìà)
+"RectangleTest.AreaCalculation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 30 06:57 RTZ 2 (çèìà)

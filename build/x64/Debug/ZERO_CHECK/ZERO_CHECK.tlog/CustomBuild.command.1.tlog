@@ -1,0 +1,10 @@
+^C:\LABAS3\BUILD\CMAKEFILES\915220CD5A570A8C3990F2F33C024B12\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/labas3 -BC:/labas3/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/labas3/build/MyGreatProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
